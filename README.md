@@ -37,13 +37,13 @@ Um aplicativo mobile elegante e animado que fornece informações meteorológica
 
 <table>
   <tr>
-    <th>Tela Principal Dia</th>
+    <th>Tela Dia Nublado</th>
     <th>Tela Principal Noite</th>
     <th>Tela Principal Chuvoso</th>
   </tr>
   <tr>
     <td>
-      <img src="" width="250"/>
+      <img src="https://github.com/joao-robertoo/projeto-app-dev-clima/blob/main/assets/demo/dia-nublado.gif?raw=true" width="250"/>
     </td>
     <td>
       <img src="" width="250"/>
