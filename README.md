@@ -176,6 +176,25 @@ yarn start
 
 ---
 
+## 📲 Como baixar o aplicativo (Android)
+
+O app pode ser instalado diretamente no seu celular Android através do arquivo `.apk`.
+
+### Passo a passo:
+
+1. Baixe o arquivo do aplicativo clicando no link abaixo
+2. Ative a opção **"Permitir instalação de fontes desconhecidas"** no seu celular
+3. Abra o arquivo baixado
+4. Toque em **Instalar**
+5. Pronto! Agora é só abrir e cozinhar 👨‍🍳🔥
+
+<a href="" download>
+  <img src="https://img.shields.io/badge/Baixar%20APK-Android-green?style=for-the-badge&logo=android&logoColor=white" />
+</a>
+
+
+---
+
 ## 📱 Testar o App
 
 ### 🌐 Simulador Web
@@ -195,34 +214,11 @@ Experimente o aplicativo diretamente no navegador sem precisar instalar nada!
 
 ---
 
-### 📱 Testar no Dispositivo Móvel
+## 🍏 Como testar no iPhone (iOS)
 
-Teste o aplicativo nativo diretamente no seu smartphone usando o Expo:
-
-<div align="center">
-
-[![Expo](https://img.shields.io/badge/Testar_no_Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/@seu-usuario/dev-clima)
-
-</div>
-
-**Como testar:**
-
-1. Instale o aplicativo **Expo Go** no seu smartphone
-   - [📱 iOS - App Store](https://apps.apple.com/app/expo-go/id982107779)
-   - [🤖 Android - Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)
-
-2. Escaneie o QR Code abaixo:
-
-   <div align="center">
-   
-   <!-- Adicione seu QR Code do Expo aqui -->
-   <img src="./assets/qrcode/expo-qrcode.png" alt="QR Code Expo" width="200"/>
-   
-   </div>
-
-3. O app será aberto automaticamente no Expo Go
-
----
+| 📱 Teste pelo Expo Go                                                                                                                                                                                                                                                                                                                                     | 📷 QR Code do Projeto                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Por limitações da Apple, não é possível instalar o app diretamente por arquivo como no Android. Mas você pode testar facilmente usando o **Expo Go**. <br><br> **Passo a passo:** <br><br> 1️⃣ Baixe o app **Expo Go** na App Store <br> 2️⃣ Abra a câmera do seu iPhone <br> 3️⃣ Escaneie o QR Code ao lado <br> 4️⃣ O app abrirá automaticamente no Expo Go <br> | <img src="" width="450"/> |
 
 ## 📂 Estrutura de Pastas
 
