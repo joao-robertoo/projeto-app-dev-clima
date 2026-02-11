@@ -228,7 +228,6 @@ dev-clima/
 │   │   ├── cloudy.json
 │   │   ├── rainy.json
 │   │   └── thunderstorm.json
-│   ├── screenshots/         # Capturas de tela
 │   ├── demo/               # GIFs de demonstração
 │   └── qrcode/             # QR Code do Expo
 ├── App.js                  # Componente principal
