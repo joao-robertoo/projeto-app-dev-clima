@@ -188,7 +188,7 @@ O app pode ser instalado diretamente no seu celular Android através do arquivo 
 4. Toque em **Instalar**
 5. Pronto! Agora é só abrir e cozinhar 👨‍🍳🔥
 
-<a href="" download>
+<a href="https://github.com/joao-robertoo/projeto-app-dev-clima/releases/download/v1.0.0/dev-clima.apk" download>
   <img src="https://img.shields.io/badge/Baixar%20APK-Android-green?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 
@@ -205,8 +205,6 @@ Experimente o aplicativo diretamente no navegador sem precisar instalar nada!
 
 [![Vercel](https://img.shields.io/badge/Testar_Simulador-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://simulador-dev-clima.vercel.app/)
 [![Deploy Status](https://img.shields.io/badge/deploy-success-brightgreen?style=for-the-badge&logo=vercel)](https://simulador-dev-clima.vercel.app/)
-
-**[🚀 Acesse o Simulador Web](https://simulador-dev-clima.vercel.app/)**
 
 </div>
 
