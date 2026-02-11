@@ -175,9 +175,26 @@ yarn start
 
 ## 📱 Testar o App
 
-### Experimente Agora!
+### 🌐 Simulador Web
 
-Teste o aplicativo diretamente no seu dispositivo usando o Expo:
+Experimente o aplicativo diretamente no navegador sem precisar instalar nada!
+
+<div align="center">
+
+[![Vercel](https://img.shields.io/badge/Testar_Simulador-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://simulador-dev-clima.vercel.app/)
+[![Deploy Status](https://img.shields.io/badge/deploy-success-brightgreen?style=for-the-badge&logo=vercel)](https://simulador-dev-clima.vercel.app/)
+
+**[🚀 Acesse o Simulador Web](https://simulador-dev-clima.vercel.app/)**
+
+</div>
+
+> 💡 **Dica:** O simulador web permite testar todas as funcionalidades do app diretamente no navegador, incluindo detecção de localização e animações em tempo real!
+
+---
+
+### 📱 Testar no Dispositivo Móvel
+
+Teste o aplicativo nativo diretamente no seu smartphone usando o Expo:
 
 <div align="center">
 
