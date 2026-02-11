@@ -40,21 +40,24 @@ Um aplicativo mobile elegante e animado que fornece informações meteorológica
 
 ## 🎬 Demonstração
 
-### 📸 Screenshots
-
-<!-- Adicione suas capturas de tela aqui -->
-<div align="center">
-  <img src="./assets/screenshots/screenshot1.png" alt="Tela Principal Dia" width="250"/>
-  <img src="./assets/screenshots/screenshot2.png" alt="Tela Principal Noite" width="250"/>
-  <img src="./assets/screenshots/screenshot3.png" alt="Tempo Chuvoso" width="250"/>
-</div>
-
-### 🎥 Demo em Vídeo
-
-<!-- Adicione seu GIF de demonstração aqui -->
-<div align="center">
-  <img src="./assets/demo/app-demo.gif" alt="Demonstração do App" width="300"/>
-</div>
+<table>
+  <tr>
+    <th>Tela Principal Dia</th>
+    <th>Tela Principal Noite</th>
+    <th>Tela Principal Chuvoso</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="" width="250"/>
+    </td>
+    <td>
+      <img src="" width="250"/>
+    </td>
+    <td>
+      <img src="" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
