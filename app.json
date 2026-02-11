@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Dev Clima",
+    "slug": "dev-app",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#1e3d59"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.joao_rpj.devapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "da23e3e5-537f-4f6c-a20a-239ec93997c5"
+      }
+    }
+  }
+}
