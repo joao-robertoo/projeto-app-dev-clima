@@ -10,14 +10,9 @@ Um aplicativo mobile elegante e animado que fornece informações meteorológica
 [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![OpenWeather](https://img.shields.io/badge/OpenWeather-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white)](https://openweathermap.org/)
+![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-[Sobre](#-sobre-o-projeto) •
-[Demonstração](#-demonstração) •
-[Funcionalidades](#-funcionalidades) •
-[Tecnologias](#-tecnologias) •
-[Instalação](#-instalação) •
-[Deploy](#-testar-o-app) •
-[Licença](#-licença)
+#### Sobre •  Demonstração • Funcionalidades • Tecnologias • Instalação • Deploy • Licença
 
 </div>
 
@@ -63,57 +58,81 @@ Um aplicativo mobile elegante e animado que fornece informações meteorológica
 
 ## 🚀 Funcionalidades
 
-- ✅ **Geolocalização em Tempo Real**
-  - Solicitação de permissões de localização
-  - Obtenção automática de coordenadas GPS
-  - Atualização baseada na posição do usuário
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- ✅ **Informações Meteorológicas Completas**
-  - Temperatura atual
-  - Sensação térmica
-  - Umidade do ar
-  - Velocidade do vento
-  - Descrição das condições climáticas
+### 📍 Geolocalização em Tempo Real
+- Solicitação de permissões de localização  
+- Obtenção automática de coordenadas GPS  
+- Atualização baseada na posição do usuário  
 
-- ✅ **Animações Contextuais**
-  - Ensolarado ☀️
-  - Nublado ☁️
-  - Chuvoso 🌧️
-  - Tempestade ⛈️
-  - Modo noturno 🌙
+### 🌦️ Informações Meteorológicas
+- Temperatura atual  
+- Sensação térmica  
+- Umidade do ar  
+- Velocidade do vento  
+- Descrição das condições climáticas  
 
-- ✅ **Elementos Visuais Dinâmicos**
-  - Gradientes adaptativos
-  - Nuvens animadas em movimento
-  - Estrelas piscantes no modo noturno
-  - Lua com crateras no período noturno
-  - Transições suaves entre estados
+</td>
+
+<td width="50%" valign="top">
+
+### 🎞️ Animações Contextuais
+- Ensolarado ☀️  
+- Nublado ☁️  
+- Chuvoso 🌧️  
+- Tempestade ⛈️  
+- Modo noturno 🌙  
+
+### 🎨 Elementos Visuais Dinâmicos
+- Gradientes adaptativos  
+- Nuvens animadas em movimento  
+- Estrelas piscantes no modo noturno  
+- Lua com crateras no período noturno  
+- Transições suaves entre estados  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠 Tecnologias
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### Core
+### ⚙️ Core
 
-- **[React Native](https://reactnative.dev/)** - Framework para desenvolvimento mobile
-- **[Expo](https://expo.dev/)** - Plataforma para desenvolvimento React Native
-- **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** - Linguagem de programação
+- **[React Native](https://reactnative.dev/)** — Framework para desenvolvimento mobile  
+- **[Expo](https://expo.dev/)** — Plataforma para desenvolvimento React Native  
+- **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** — Linguagem de programação  
 
-### Bibliotecas e APIs
+### 🔌 Bibliotecas e APIs
 
-- **[Expo Location](https://docs.expo.dev/versions/latest/sdk/location/)** - Acesso à geolocalização do dispositivo
-- **[Axios](https://axios-http.com/)** - Cliente HTTP para requisições
-- **[Lottie React Native](https://github.com/lottie-react-native/lottie-react-native)** - Animações vetoriais
-- **[Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)** - Gradientes lineares
-- **[OpenWeather API](https://openweathermap.org/api)** - API de dados meteorológicos
+- **[Expo Location](https://docs.expo.dev/versions/latest/sdk/location/)** — Geolocalização do dispositivo  
+- **[Axios](https://axios-http.com/)** — Cliente HTTP para requisições  
+- **[Lottie React Native](https://github.com/lottie-react-native/lottie-react-native)** — Animações vetoriais  
+- **[Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)** — Gradientes lineares  
+- **[OpenWeather API](https://openweathermap.org/api)** — API de dados meteorológicos  
 
-### Ferramentas de Desenvolvimento
+</td>
+<td width="50%" valign="top" align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🧰 Ferramentas de Desenvolvimento
+
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -176,25 +195,6 @@ yarn start
 
 ---
 
-## 📲 Como baixar o aplicativo (Android)
-
-O app pode ser instalado diretamente no seu celular Android através do arquivo `.apk`.
-
-### Passo a passo:
-
-1. Baixe o arquivo do aplicativo clicando no link abaixo
-2. Ative a opção **"Permitir instalação de fontes desconhecidas"** no seu celular
-3. Abra o arquivo baixado
-4. Toque em **Instalar**
-5. Pronto! Agora é só abrir e cozinhar 👨‍🍳🔥
-
-<a href="https://github.com/joao-robertoo/projeto-app-dev-clima/releases/download/v1.0.0/dev-clima.apk" download>
-  <img src="https://img.shields.io/badge/Baixar%20APK-Android-green?style=for-the-badge&logo=android&logoColor=white" />
-</a>
-
-
----
-
 ## 📱 Testar o App
 
 ### 🌐 Simulador Web
@@ -212,11 +212,70 @@ Experimente o aplicativo diretamente no navegador sem precisar instalar nada!
 
 ---
 
+## 📲 Como baixar o aplicativo (Android)
+
+<table>
+<tr>
+<td>
+
+📱 **Instalação direta via APK**
+
+O app pode ser instalado diretamente no seu celular Android através do arquivo `.apk`.
+
+**Passo a passo:**
+
+1️⃣ Baixe o arquivo do aplicativo clicando no botão ao lado  
+2️⃣ Ative a opção **"Permitir instalação de fontes desconhecidas"** no seu celular  
+3️⃣ Abra o arquivo baixado  
+4️⃣ Toque em **Instalar**  
+5️⃣ Pronto! Agora é só abrir e usar 🚀  
+
+</td>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-dev-clima/0f790afd6bb47d52bdd0e5b6af441a2f1ad7a50c/assets/qrcode/qrcode.svg" width="200"/><br><br>
+
+<a href="https://github.com/joao-robertoo/projeto-app-dev-clima/releases/download/v1.0.0/dev-clima.apk" download>
+  <img src="https://img.shields.io/badge/Baixar%20APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🍏 Como testar no iPhone (iOS)
 
-| 📱 Teste pelo Expo Go                                                                                                                                                                                                                                                                                                                                     | 📷 QR Code do Projeto                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Por limitações da Apple, não é possível instalar o app diretamente por arquivo como no Android. Mas você pode testar facilmente usando o **Expo Go**. <br><br> **Passo a passo:** <br><br> 1️⃣ Baixe o app **Expo Go** na App Store <br> 2️⃣ Abra a câmera do seu iPhone <br> 3️⃣ Escaneie o QR Code ao lado <br> 4️⃣ O app abrirá automaticamente no Expo Go <br> | <img src="" width="450"/> |
+<table>
+<tr>
+<td>
+
+📱 **Teste pelo Expo Go**
+
+Por limitações da Apple, não é possível instalar o app diretamente por arquivo como no Android. Mas você pode testar facilmente usando o **Expo Go**.
+
+**Passo a passo:**
+
+1️⃣ Baixe o app **Expo Go** na App Store  
+2️⃣ Abra a câmera do iPhone  
+3️⃣ Escaneie o QR Code ao lado  
+4️⃣ O app abrirá automaticamente no Expo Go  
+
+</td>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/joao-robertoo/projeto-app-dev-clima/0f790afd6bb47d52bdd0e5b6af441a2f1ad7a50c/assets/qrcode/qrcode.svg" width="400"/><br><br>
+
+<a href="exp+://expo-development-client/?url=https://u.expo.dev/da23e3e5-537f-4f6c-a20a-239ec93997c5/group/84884f11-07d6-4e3a-8148-afa258229cde">
+  <img src="https://img.shields.io/badge/iOS-Abrir%20no%20Expo%20Dev%20Client-000?logo=apple"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📂 Estrutura de Pastas
 
@@ -280,13 +339,13 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 <div align="center">
-  <img src="https://github.com/seu-usuario.png" alt="Seu Nome" width="100" style="border-radius: 50%"/>
-  
-  **Seu Nome**
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
+  <img src="https://github.com/user-attachments/assets/9a443f9a-f136-449e-a349-6f9ea088a8ca" width="180" style="border-radius: 50%;" alt="João Roberto"/>
+
+  **João Roberto - Desenvolvedor FullStack**
+
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-robertoo)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaorobertoo)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-nu-ruddy-64.vercel.app/)
 </div>
 
 ---
