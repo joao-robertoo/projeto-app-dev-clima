@@ -339,13 +339,13 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 <div align="center">
-  <img src="https://github.com/seu-usuario.png" alt="Seu Nome" width="100" style="border-radius: 50%"/>
-  
-  **Seu Nome**
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
+  <img src="https://github.com/user-attachments/assets/9a443f9a-f136-449e-a349-6f9ea088a8ca" width="180" style="border-radius: 50%;" alt="João Roberto"/>
+
+  **João Roberto - Desenvolvedor FullStack**
+
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-robertoo)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaorobertoo)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-nu-ruddy-64.vercel.app/)
 </div>
 
 ---
