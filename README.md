@@ -38,18 +38,18 @@ Um aplicativo mobile elegante e animado que fornece informações meteorológica
 <table>
   <tr>
     <th>Dia Nublado</th>
-    <th>Noite</th>
-    <th>Dia Chuvoso</th>
+    <th>Dia Ensolarado</th>
+    <th>Noite Nublada</th>
   </tr>
   <tr>
     <td>
       <img src="https://github.com/joao-robertoo/projeto-app-dev-clima/blob/main/assets/demo/dia-nublado.gif?raw=true" width="200"/>
     </td>
     <td>
-      <img src="https://github.com/joao-robertoo/projeto-app-dev-clima/blob/main/assets/demo/noite.gif?raw=true" width="200"/>
+      <img src="https://github.com/joao-robertoo/projeto-app-dev-clima/blob/main/assets/demo/dia-ensolarado.gif?raw=true" width="200"/>
     </td>
     <td>
-      <img src="" width="200"/>
+      <img src="https://github.com/joao-robertoo/projeto-app-dev-clima/blob/main/assets/demo/noite.gif?raw=true" width="200"/>
     </td>
   </tr>
 </table>
